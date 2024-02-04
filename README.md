@@ -1,7 +1,7 @@
 # HMD-electricity-load
 
-Parameter(s): 
-ALLSKY_SFC_SW_DWN     CERES SYN1deg All Sky Surface Shortwave Downward Irradiance (W/m^2) 
+Parameter(s):   
+ALLSKY_SFC_SW_DWN     CERES SYN1deg All Sky Surface Shortwave Downward Irradiance (W/m^2)   
 CLRSKY_SFC_SW_DWN     CERES SYN1deg Clear Sky Surface Shortwave Downward Irradiance (W/m^2) 
 TOA_SW_DWN            CERES SYN1deg Top-Of-Atmosphere Shortwave Downward Irradiance (W/m^2) 
 ALLSKY_SRF_ALB        CERES SYN1deg All Sky Surface Albedo (dimensionless) 
